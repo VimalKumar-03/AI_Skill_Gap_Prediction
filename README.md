@@ -1,2 +1,15 @@
-# AI_Skill_Gap_Prediction
-This project identifies gaps between employees current skills and AI job market requirements.  It includes data cleaning, exploratory data analysis (EDA), and predictive modeling using Python and scikit-learn.  The insights can help organizations plan targeted upskilling programs.
+# AI Skill Gap Prediction
+
+### 📌 Overview
+This project identifies gaps between employee skills and AI job market requirements using Python and Machine Learning.
+
+### 🧠 Skills Used
+- Python (Pandas, NumPy, Scikit-learn)
+- Data Cleaning, EDA, Predictive Modeling
+
+### 📊 Objective
+To help organizations plan AI-related upskilling programs based on predicted skill demands.
+
+### 📁 Files
+- AI_Skill_Gap_Prediction.ipynb — Jupyter Notebook
+- dataset.csv — Employee skill dataset
