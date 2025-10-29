@@ -13,3 +13,5 @@ To help organizations plan AI-related upskilling programs based on predicted ski
 ### 📁 Files
 - AI_Skill_Gap_Prediction.ipynb — Jupyter Notebook
 - dataset.csv — AI skill Gap dataset
+
+"C:\Users\VimalKumar\OneDrive\Desktop\MY_PROJECTS\AI\AI_Skill_Gap_Dataset_20000.csv"
