@@ -13,5 +13,5 @@ To help organizations plan AI-related upskilling programs based on predicted ski
 ### 📁 Files
 - AI_Skill_Gap_Prediction.ipynb — Jupyter Notebook
 - dataset.csv — AI skill Gap dataset
+- <a href="https://github.com/VimalKumar-03/employee-productivity-stress-analysis/blob/main/Employee-productivity-dataset.csv">dataset</a>
 
-"C:\Users\VimalKumar\OneDrive\Desktop\MY_PROJECTS\AI\AI_Skill_Gap_Dataset_20000.csv"
